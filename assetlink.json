@@ -5,7 +5,7 @@
             "namespace": "android_app",
             "package_name": "com.example.androidtestci",
             "sha256_cert_fingerprints":
-            ["FA:F7:56:54:66:72:CB:6E:4F:7D:44:29:05:AA:62:31:1D:7F:98:57:03:D8:8B:D8:16:9D:2E:E8:DD:14:E9:D1"]
+            ["FA:F7:56:54:66:72:CB:6E:4F:7D:44:29:05:AA:62:31:1D:7F:98:57:03:D8:8B:D8:16:9D:2E:E8:DD:14:E9:D1","64:23:45:31:F1:92:90:2A:A7:78:13:40:F9:57:48:5E:DC:5F:C9:DB:9C:8A:BA:11:7D:85:B9:B2:D4:76:D8:A"]
         }
     }
 ]
